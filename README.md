@@ -18,6 +18,7 @@ const interestLoop = ({value, die}) =>
   
 interestLoop(aboutMe.next())
 // 1. { code: "javascript & python and everythings...", bestFavoriteSkill: "Now web front-end :)" }
+// Study next()
 // 2. { code: "rust & typescript and everythings...", bestFavoriteSkill: "Server/rust, Back-end/typescript(deno)" }
 // 3. Perhaps...
 ```
