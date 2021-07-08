@@ -15,8 +15,8 @@ import ME from "WhatIWannaDoBeforeDieAsADeveloper";
 const aboutMe = ME.getReader();
 const interestLoop = ({value, die}) => 
   die || value.then(v => interestLoop(aboutMe.next()))
+  
 interestLoop(aboutMe.next())
-
 // 1. { code: "javascript & python and everythings...", bestFavoriteSkill: "Now web front-end :)" }
 // 2. { code: "rust & typescript and everythings...", bestFavoriteSkill: "Server/rust, Back-end/typescript(deno)" }
 // 3. Perhaps...
