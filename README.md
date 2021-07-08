@@ -1,16 +1,23 @@
-### Hi there 👋
 
-<!--
-**1eedaegon/1eedaegon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2> Hi, I'm Gon! 🙄</h2>
+<p><em>Software engineer,<br/> Now focused on full stack web systems and signal/audio processing <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><br><br></em></p>
 
-Here are some ideas to get you started:
+<img src="https://user-images.githubusercontent.com/37583495/124870308-72c27a80-dffd-11eb-96c3-dfd25486a26d.gif" alt="다이다믹네온" width="100%" >
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3> More about me...</h3>
+
+```js
+import ME from "WhatIWannaDoBeforeDieAsADeveloper";
+
+const aboutMe = ME.getReader();
+const interestLoop = ({value, die}) => 
+  die || value.then(v => interestLoop(aboutMe.next()))
+interestLoop(aboutMe.next())
+
+// 1. { code: "javascript & python and everythings...", bestFavoriteSkill: "Now web front-end :)" }
+// 2. { code: "rust & typescript and everythings...", bestFavoriteSkill: "Server/rust, Back-end/typescript(deno)" }
+// 3. Perhaps...
+```
+<br/>
+<img src="https://github-readme-stats.vercel.app/api?username=1eedaegon&show_icons=true&theme=radical" width="50%" align="left">
+<img src="https://github-readme-stats-two-green.vercel.app/api/top-langs/?username=1eedaegon&langs_count=10&layout=compact&hide=pawn,html,hack,css" width="40%" align="right">
