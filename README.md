@@ -3,7 +3,7 @@
 
 > Software engineer, Now focused on full stack web systems and quantitative analysis, signal/audio processing 
 
-<p><em> I am passionate about solving real-world problems with Typescript/Javascript.  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><br><br></em></p>
+<p><em> I am passionate about solving real-world problems with C++/Typescript.  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><br><br></em></p>
 
 <img src="https://user-images.githubusercontent.com/37583495/124870308-72c27a80-dffd-11eb-96c3-dfd25486a26d.gif" alt="다이다믹네온" width="100%" >
 
