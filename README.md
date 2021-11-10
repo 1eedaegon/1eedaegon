@@ -17,9 +17,9 @@ const interestLoop = ({value, die}) =>
   die || value.then(v => interestLoop(aboutMe.next()))
   
 interestLoop(aboutMe.next())
-// 1. { code: "go & typescript and everythings...", bestFavoriteSkill: "Now blockchain and Container orchestration =]" }
+// 1. { code: "typescript and everythings...", bestFavoriteSkill: "Now web system =]" }
 // Study next()
-// 2. { code: "rust & go and everythings", bestFavoriteSkill: "Hyper speed network programming" }
+// 2. { code: "rust & go and everythings", bestFavoriteSkill: "" }
 // 3. Perhaps...
 ```
 <br/>
