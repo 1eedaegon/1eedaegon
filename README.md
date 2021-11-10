@@ -1,7 +1,7 @@
 
 <h2> Hi, I'm Gon! 🙄</h2>
 
-> Software engineer, Now focused on full stack web systems and High performance networking, signal/audio processing 
+> Software engineer, Now focused on full stack web systems and quantitative analysis, signal/audio processing 
 
 <p><em> I am passionate about solving real-world problems with Typescript/Javascript.  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><br><br></em></p>
 
