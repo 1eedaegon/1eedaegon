@@ -19,8 +19,7 @@ const interestLoop = ({value, die}) =>
 interestLoop(aboutMe.next())
 // 1. { code: "typescript and everythings...", bestFavoriteSkill: "Now web system =]" }
 // Study next()
-// 2. { code: "rust & go and everythings", bestFavoriteSkill: "" }
-// 3. Perhaps...
+// 2. { code: "May be rust?" }
 ```
 <br/>
 <img src="https://github-readme-stats.vercel.app/api?username=1eedaegon&show_icons=true&theme=radical" width="50%" align="left">
