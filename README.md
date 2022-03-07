@@ -17,9 +17,11 @@ const interestLoop = ({value, die}) =>
   die || value.then(v => interestLoop(aboutMe.next()))
   
 interestLoop(aboutMe.next())
-// 1. { code: "typescript and everythings...", bestFavoriteSkill: "Now web system =]" }
-// Study next()
-// 2. { code: "May be rust?" }
+// { id: 1, code: "Typescript and everythings...", comment: "Now web system =]" }
+interestLoop(aboutMe.next())
+// { id: 2, code: "Sometimes find the 𝞪 and apply it to the RL model" }
+interestLoop(aboutMe.next())
+// { id: 3, code: "Design an application system based on ☸️K8s" }
 ```
 <br/>
 <img src="https://github-readme-stats.vercel.app/api?username=1eedaegon&show_icons=true&theme=radical" width="50%" align="left">
