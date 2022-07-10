@@ -25,4 +25,3 @@ interestLoop(aboutMe.next())
 ```
 <br/>
 <img src="https://github-readme-stats.vercel.app/api?username=1eedaegon&show_icons=true&theme=radical" width="50%" align="left">
-<img src="https://github-readme-stats-two-green.vercel.app/api/top-langs/?username=1eedaegon&langs_count=10&layout=compact&hide=pawn,html,hack,css" width="40%" align="right">
